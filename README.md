@@ -1,4 +1,4 @@
-```
+
 # 📝 ToDo App
 
 A simple and efficient **ToDo application** built with **Spring Boot**, designed to help users manage daily tasks with ease.
