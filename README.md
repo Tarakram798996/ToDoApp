@@ -82,7 +82,7 @@ http://localhost:8080
 
 ## 👨‍💻 Author
 
-**Tarakram (bhAAi)**
+**Tarakram**
 🔗 [GitHub Profile](https://github.com/Tarakram798996)
 
 ```
